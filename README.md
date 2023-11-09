@@ -4,11 +4,15 @@ Parfum is ecommerce application build with the power of React, Strapi, Stripe.
 
 ## Video showing all the features: 
 
-https://github.com/Alishba-Siddique/ecommerce-store/assets/97811058/60d76d19-ff35-4cd0-b757-ba61554d0aaa
+
+https://github.com/Alishba-Siddique/ecommerce-store/assets/97811058/9caf36b5-4691-4dbc-ab71-f99f01be0354
+
+
 
 ## Image of the Homepage
 
-![Web capture_27-9-2023_165940_localhost](https://github.com/Alishba-Siddique/ecommerce-store/assets/97811058/c6fbd34a-f475-4618-92a9-2213efa6da1a)
+![PARFUM](https://github.com/Alishba-Siddique/ecommerce-store/assets/97811058/5c0023c8-451c-4eaa-9a62-f7d008e05861)
+
 
 ## Installation Guide
 
