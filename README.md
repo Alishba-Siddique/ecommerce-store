@@ -34,7 +34,7 @@ Now install the dependencies
 cd client
 yarn
 cd ..
-cd api
+cd server
 yarn
 ```
 We are almost done, Now just start the development server.
