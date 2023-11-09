@@ -1,0 +1,41 @@
+{
+  "name": "api",
+  "private": true,
+  "version": "0.1.0",
+  "description": "A Strapi application",
+  "scripts": {
+    "develop": "strapi develop",
+    "start": "strapi start",
+    "build": "strapi build",
+    "strapi": "strapi",
+    "heroku-postbuild": "cd client && npm install && npm run build"
+  },
+  "dependencies": {
+    "@strapi/plugin-i18n": "4.13.6",
+    "@strapi/plugin-users-permissions": "4.13.6",
+    "@strapi/strapi": "4.13.6",
+    "@stripe/react-stripe-js": "^2.3.0",
+    "@stripe/stripe-js": "^2.1.6",
+    "express": "^4.18.2",
+    "mysql": "^2.18.1",
+    "mysql2": "^3.6.1",
+    "ngrok": "^5.0.0-beta.2",
+    "path.join": "^1.0.0",
+    "strapi-plugin-netlify-deployments": "^2.0.1",
+    "stripe": "^13.7.0"
+  },
+  "author": {
+    "name": "Alishba Siddique"
+  },
+  "strapi": {
+    "uuid": "becc5b19-d450-441f-a01f-6b943163d446"
+  },
+  "engines": {
+    "node": ">=16.0.0 <=20.x.x",
+    "npm": ">=6.0.0"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "@types/stripe": "^8.0.417"
+  }
+}

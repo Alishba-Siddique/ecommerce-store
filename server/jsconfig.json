@@ -1,0 +1,10 @@
+{
+  "compileOnSave": true,
+  "compilerOptions": {
+    "jsx": "react",
+    "moduleResolution": "node",
+    "target": "ES2021",
+    "checkJs": true,
+    "allowJs": true
+  }
+}
